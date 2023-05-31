@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/custom_dialog_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rounded_button_background"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- add your dialog content here -->
+
+</LinearLayout>

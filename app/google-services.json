@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708421299944",
+    "project_id": "carepro-16b87",
+    "storage_bucket": "carepro-16b87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708421299944:android:4c0dfc863ffafdcd02a35d",
+        "android_client_info": {
+          "package_name": "com.example.carepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708421299944-oppubj0khpk2kb7rj87e01esg717ufa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxqQHhrCS4dsIBY-6Rf29P48_d6rL5T_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708421299944-oppubj0khpk2kb7rj87e01esg717ufa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

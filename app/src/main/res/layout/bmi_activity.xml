@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:gravity="top|center"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/grey"
+    android:layout_height="match_parent"
+    tools:context=".bmiActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BMI Calculator"
+        android:textSize="40dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:background="@color/jade"
+        style="@style/TextAppearance.MaterialComponents.Headline3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center">
+        <TextView
+            style="@style/TextAppearance.MaterialComponents.Body1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="Height (cm)"
+            android:layout_marginRight="30dp"
+            android:textColor="@color/jade"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:paddingTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:textColor="@color/jade"
+            android:text="Weight (kg)"
+            style="@style/TextAppearance.MaterialComponents.Body1"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center">
+
+        <NumberPicker
+            android:layout_width="65dp"
+            android:layout_height="180dp"
+            android:id="@+id/heightPicker"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/rounded_button_background" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Male"
+                android:textColor="@color/jade"
+                android:layout_gravity="center"/>
+
+            <RadioButton
+                android:id="@+id/male_radio_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="@null"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Female"
+                android:textColor="@color/jade"
+                android:layout_gravity="center"/>
+
+            <RadioButton
+                android:id="@+id/female_radio_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="@null"/>
+
+        </LinearLayout>
+
+        <NumberPicker
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/weightPicker"
+            android:background="@drawable/rounded_button_background"
+            android:layout_marginLeft="30dp"/>
+
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:hint="Calculate"
+        android:textColorHint="@color/white"
+        android:background="@drawable/rounded_button_background"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/bmiButton"/>
+
+    <ImageView
+        android:id="@+id/bmi_meter"
+        android:layout_width="300dp"
+        android:layout_height="200dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/results"
+        android:padding="10dp"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        style="@style/TextAppearance.MaterialComponents.Headline4"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Update Current BMI"
+        android:textColorHint="@color/white"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/rounded_button_background"
+        android:id="@+id/updateButton"/>
+
+</LinearLayout>
