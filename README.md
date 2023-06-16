@@ -37,7 +37,7 @@ https://github.com/MoosaImran50/CarePro/assets/108832275/66778c5e-be24-4092-aabb
 
 ## Screenshots
 
-![Screenshot_20230616_220721_CarePro](https://github.com/MoosaImran50/CarePro/assets/108832275/999d4200-5ccd-48f7-8f32-00edf62f69d4 | width=300)
+<img src="https://github.com/MoosaImran50/CarePro/assets/108832275/999d4200-5ccd-48f7-8f32-00edf62f69d4" alt="Screenshot" width="300">
 ![Screenshot_20230616_220812_CarePro](https://github.com/MoosaImran50/CarePro/assets/108832275/4800cfc5-00c5-49cc-8245-9292a5c43817)
 ![Screenshot_20230616_220804_CarePro](https://github.com/MoosaImran50/CarePro/assets/108832275/28d5a1c9-4f9b-4a37-8d52-f700ed528db2)
 ![Screenshot_20230616_220728_CarePro](https://github.com/MoosaImran50/CarePro/assets/108832275/9bdb0b65-b5ac-4381-b9ee-93b78d0434d2)
