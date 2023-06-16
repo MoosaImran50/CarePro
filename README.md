@@ -2,7 +2,7 @@
 
 ![carepro_1](https://github.com/MoosaImran50/CarePro/assets/108832275/bfbdd212-f400-4b8d-87df-6e42dae7514f)
 
-CarePro is an Android app developed using Kotlin. It provides users with a range of features to manage their health and well-being. The app utilizes Firebase authentication for seamless login and signup functionality.
+CarePro is an Android app developed using Kotlin. It provides users with a range of features to manage their health and well-being. The app utilizes Firebase authentication for seamless login and signup functionality and leverages Firebase Realtime Database for efficient storage.
 
 ## Features
 
