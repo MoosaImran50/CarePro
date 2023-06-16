@@ -1,6 +1,6 @@
 # CarePro Android App
 
-<img width="182" alt="carepro_logo" src="https://github.com/MoosaImran50/CarePro/assets/108832275/a973a3db-4017-4016-a975-bc790bbde95a">
+![carepro_1](https://github.com/MoosaImran50/CarePro/assets/108832275/bfbdd212-f400-4b8d-87df-6e42dae7514f)
 
 CarePro is an Android app developed using Kotlin. It provides users with a range of features to manage their health and well-being. The app utilizes Firebase authentication for seamless login and signup functionality.
 
@@ -31,11 +31,16 @@ CarePro is an Android app developed using Kotlin. It provides users with a range
   - List view: Shows a list of nearby hospitals with relevant details.
   - Map view: Provides a Google Maps view with markers representing the nearest hospitals.
 
-## Screenshots
-
-
-
 ## Demo Video
 
+https://github.com/MoosaImran50/CarePro/assets/108832275/66778c5e-be24-4092-aabb-c210ff8e3fb4
 
+## Screenshots
 
+![Screenshot_20230616_220721_CarePro](https://github.com/MoosaImran50/CarePro/assets/108832275/999d4200-5ccd-48f7-8f32-00edf62f69d4)
+![Screenshot_20230616_220812_CarePro](https://github.com/MoosaImran50/CarePro/assets/108832275/4800cfc5-00c5-49cc-8245-9292a5c43817)
+![Screenshot_20230616_220804_CarePro](https://github.com/MoosaImran50/CarePro/assets/108832275/28d5a1c9-4f9b-4a37-8d52-f700ed528db2)
+![Screenshot_20230616_220728_CarePro](https://github.com/MoosaImran50/CarePro/assets/108832275/9bdb0b65-b5ac-4381-b9ee-93b78d0434d2)
+![Screenshot_20230616_220842_CarePro](https://github.com/MoosaImran50/CarePro/assets/108832275/ae8f8190-28fd-49a4-b3be-59001a3e3d2b)
+![Screenshot_20230616_220824_CarePro](https://github.com/MoosaImran50/CarePro/assets/108832275/7f31d3e4-8b91-4b1d-8d10-c79a4f7c9b81)
+![Screenshot_20230616_220745_CarePro](https://github.com/MoosaImran50/CarePro/assets/108832275/88aed181-8235-42ca-be35-7a64bd789f39)
