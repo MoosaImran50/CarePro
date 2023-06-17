@@ -32,7 +32,7 @@ CarePro is an Android app developed using Kotlin. It provides users with a range
 
 ## Demo Video
 
-https://github.com/MoosaImran50/CarePro/assets/108832275/66778c5e-be24-4092-aabb-c210ff8e3fb4
+https://github.com/MoosaImran50/CarePro/assets/108832275/c8f16d8b-0cbb-4bf2-aef6-a140dc30ad3d
 
 ## Screenshots
 
