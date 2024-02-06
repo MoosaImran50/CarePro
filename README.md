@@ -21,7 +21,8 @@ CarePro is an Android app developed using Kotlin. It provides users with a range
 **BMI Calculator:**
 
 - Calculate your Body Mass Index (BMI).
-- Update your existing BMI by entering weight, height, and gender.
+- Update your existing BMI by entering Weight and Height values.
+- Values can be in either Imperial or Metric units.
 
 **Nearest Hospitals:**
 
